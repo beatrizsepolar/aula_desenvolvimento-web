@@ -1,0 +1,16 @@
+a {
+    color: rgb(31, 39, 151);
+    text-decoration: underline;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:active {
+    color: green;
+}
